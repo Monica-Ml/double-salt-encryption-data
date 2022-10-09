@@ -1,5 +1,5 @@
 # uuid version 4
-encrypt a clear string with double salt encryption by base64_encode and md5
+Encrypt a clear string with double salt encryption by base64_encode and md5
 
 ## Questions
 
